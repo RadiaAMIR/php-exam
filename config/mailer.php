@@ -18,7 +18,7 @@
 define('SMTP_HOST',       'smtp.gmail.com');
 define('SMTP_PORT',       587);
 define('SMTP_USER',       'radiaamir2@gmail.com');
-define('SMTP_PASS',       'rfvs zalu roqi cdii');
+define('SMTP_PASS',       'rfvs **** roqi ****');
 define('SMTP_FROM_NAME',  'EventHub Pro — ENSA Marrakech');
 define('SMTP_ENCRYPTION', 'tls');
 
